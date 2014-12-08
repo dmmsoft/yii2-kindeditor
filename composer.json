@@ -1,0 +1,21 @@
+{
+    "name": "sailinghang/yii2-kindeditor",
+    "description": "KindEditor Widget for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","kindeditor"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sailinghang",
+            "email": "357820357@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sailinghang\\kindeditor\\": ""
+        }
+    }
+}
